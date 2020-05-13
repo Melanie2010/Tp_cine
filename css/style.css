@@ -45,8 +45,9 @@ main{
 }
 ul{
     text-align: center;
-    margin: auto;   
+    margin: auto; 
 }
-li{
-    background-color: blue;
+main ul li{
+    width: 500px;
+
 }
